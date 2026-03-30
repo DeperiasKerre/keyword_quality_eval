@@ -13,7 +13,7 @@ ENDPOINT = "https://data.europa.eu/sparql"
 sparql = SPARQLWrapper(ENDPOINT)
 
 # -----------------------------
-# SPARQL Query to extract metadata: dataset, title, description
+# SPARQL Query to extract metadata: dataset, title, description, keywords
 # -----------------------------
 query = """
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
