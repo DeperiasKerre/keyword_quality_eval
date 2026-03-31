@@ -1,0 +1,592 @@
+[
+  {
+    "id": "http://data.europa.eu/88u/dataset/combined-nomenclature-2023",
+    "title": "Combined Nomenclature, 2023 (CN 2023)",
+    "description": "<p>The Combined Nomenclature 2023 (CN 2023) is the goods classification used within the European Union for the purposes of foreign trade statistics. It is also used by Directorate General \"Taxation and Customs Union\" of the European Commission for customs duty purposes. The classification is based on the world standard Harmonized System (HS 2022) which it sub-divides where necessary for purposes of external trade, agricultural regulation and customs duties.</p>\n         <p>Legal basis <a href=\"http://data.europa.eu/eli/reg_impl/2022/1998/oj\">http://data.europa.eu/eli/reg_impl/2022/1998/oj</a> : Commission Implementing Regulation (EU) 2022/1998 of 20 September 2022 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff, OJ L 282, 31.10.2022, p. 1–1093</p>\n         <p>Explanatory notes <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2019.119.01.0001.01.ENG\">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2019.119.01.0001.01.ENG</a> to the Combined Nomenclature of the European Union, OJ C 119, 29.3.2019, p. 1 -422</p>\n         <p>Eurostat website: International trade in goods methodology: classifications (<a href=\"https://ec.europa.eu/eurostat/web/international-trade-in-goods/methodology#Goods\">https://ec.europa.eu/eurostat/web/international-trade-in-goods/methodology#Goods</a>)</p>",
+    "keywords": [
+      "Combined Nomenclature",
+      "ESTAT Tables",
+      "authority data",
+      "controlled vocabulary",
+      "group-multilingual-assets"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/tunbridge-wells-open-data-transparency-members-allowances-2015-to-20167",
+    "title": "Tunbridge Wells Open Data - Transparency - Members Allowances 2015 to 2016",
+    "description": "List of allowances paid to members",
+    "keywords": [
+      "Finance",
+      "Member Allowances",
+      "Procurement",
+      "Transparency Code",
+      "Tunbridge Wells",
+      "Tunbridge Wells Borough Council"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/better-business-partnership",
+    "title": "Better Business Partnership",
+    "description": "The Better Business Partnership (BBP) is the trusted trader scheme operating in Perth and Kinross. The aim is to help traders comply with the law while improving consumer protection through a partnership approach.",
+    "keywords": [
+      "Addresses",
+      "Business"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/jabbeke_volume",
+    "title": "Volume reflectivity data - Jabbeke weather radar",
+    "description": "Polar volume reflectivity data from the Jabbeke weather radar. Volume data files are produced every 5 minutes from a multiple elevation scan. This product is not publicly available yet.",
+    "keywords": [
+      "Atmosferische omstandigheden",
+      "Atmospheric conditions",
+      "Atmosphärische Bedingungen",
+      "Conditions atmosphériques",
+      "federal government",
+      "observation",
+      "radar"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/dpyj6oz3pcclvrsdkyp1w",
+    "title": "Artificial intelligence by NACE Rev. 2 activity",
+    "description": "Artificial intelligence by NACE Rev. 2 activity",
+    "keywords": [
+      "Classes de taille en nombre des personnes occupées",
+      "Entité géopolitique (déclarante)",
+      "Fréquence (relative au temps)",
+      "Geopolitical entity (reporting)",
+      "Geopolitische Meldeeinheit",
+      "Größenklassen (Anzahl) der Beschäftigten",
+      "Indicateur sur la société de l'information",
+      "Indikator zur Informationsgesellschaft",
+      "Information society indicator",
+      "Maßeinheit",
+      "Nomenclature statistique des activités économiques dans la Communauté européenne (NACE Rév. 2)",
+      "Size classes in number of persons employed",
+      "Statistical classification of economic activities in the European Community (NACE Rev. 2)",
+      "Statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2)",
+      "Time frequency",
+      "Unit of measure",
+      "Unité de mesure",
+      "Zeitliche Frequenz"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/equids-summering-usage-identitas",
+    "title": "Equids - Summering by type of use",
+    "description": "Number of registered and living equids in the summering zone by type of use in Switzerland and in Liechtenstein. The annual view shows the number of animals as of July 25 (DZV Artikel 98).",
+    "keywords": [
+      "animale-da-reddito",
+      "animaux-de-rente",
+      "equiden",
+      "equides",
+      "equidi",
+      "equids",
+      "estivage",
+      "estivazione",
+      "livestock",
+      "nutztiere",
+      "sommerung",
+      "summering"
+    ],
+    "license": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/782cdbf5-bfda-4813-a5d7-336ebbc241bb~~1",
+    "title": "Decadal time series of spatially enhanced relative humidity for Europe at 30 arc seconds resolution (2000 - 2021) derived from ERA5-Land data",
+    "description": "Overview:\nERA5-Land is a reanalysis dataset providing a consistent view of the evolution of land variables over several decades at an enhanced resolution compared to ERA5. ERA5-Land has been produced by replaying the land component of the ECMWF ERA5 climate reanalysis. Reanalysis combines model data with observations from across the world into a globally complete and consistent dataset using the laws of physics. Reanalysis produces data that goes several decades back in time, providing an accurate description of the climate of the past.\n\nProcessing steps:\nThe original hourly ERA5-Land air temperature 2 m above ground and dewpoint temperature 2 m data has been spatially enhanced from 0.1 degree to 30 arc seconds (approx. 1000 m) spatial resolution by image fusion with CHELSA data (V1.2) (https://chelsa-climate.org/). For each day we used the corresponding monthly long-term average of CHELSA. The aim was to use the fine spatial detail of CHELSA and at the same time preserve the general regional pattern and fine temporal detail of ERA5-Land. The steps included aggregation and enhancement, specifically:\n1. spatially aggregate CHELSA to the resolution of ERA5-Land\n2. calculate difference of ERA5-Land - aggregated CHELSA\n3. interpolate differences with a Gaussian filter to 30 arc seconds.\n4. add the interpolated differences to CHELSA\n\nSubsequently, the temperature time series have been aggregated on a daily basis. From these, daily relative humidity has been calculated for the time period 01/2000 - 07/2021.\n\nRelative humidity (rh2m) has been calculated from air temperature 2 m above ground (Ta) and dewpoint temperature 2 m above ground (Td) using the formula for saturated water pressure from Wright (1997):\n\nmaximum water pressure = 611.21 * exp(17.502 * Ta / (240.97 + Ta))\n\nactual water pressure = 611.21 * exp(17.502 * Td / (240.97 + Td))\n\nrelative humidity = actual water pressure / maximum water pressure\n\nThe resulting relative humidity has been aggregated to decadal averages. Each month is divided into three decades: the first decade of a month covers days 1-10, the second decade covers days 11-20, and the third decade covers days 21-last day of the month.\n\nResultant values have been converted to represent percent * 10, thus covering a theoretical range of [0, 1000].\n\nFile naming scheme (YYYY = year; MM = month; dD = number of decade):\nERA5_land_rh2m_avg_decadal_YYYY_MM_dD.tif\n\nProjection + EPSG code:\nLatitude-Longitude/WGS84 (EPSG: 4326)\n\nSpatial extent:\nnorth: 82:00:30N\nsouth: 18N\nwest: 32:00:30W\neast: 70E\n\nSpatial resolution:\n30 arc seconds (approx. 1000 m)\n\nTemporal resolution:\nDecadal\n\nPixel values:\nPercent * 10 (scaled to Integer; example: value 738 = 73.8 %)\n\nSoftware used:\nGDAL 3.2.2 and GRASS GIS 8.0.0\n\nOriginal ERA5-Land dataset license:\nhttps://apps.ecmwf.int/datasets/licences/copernicus/\n\nCHELSA climatologies (V1.2):\nData used: Karger D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., Zimmermann, N.E, Linder, H.P., Kessler, M. (2018): Data from: Climatologies at high resolution for the earth's land surface areas. Dryad digital repository. http://dx.doi.org/doi:10.5061/dryad.kd1d4\nOriginal peer-reviewed publication: Karger, D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., Zimmermann, N.E., Linder, P., Kessler, M. (2017): Climatologies at high resolution for the Earth land surface areas. Scientific Data. 4 170122. https://doi.org/10.1038/sdata.2017.122\n\nProcessed by:\nmundialis GmbH & Co. KG, Germany (https://www.mundialis.de/)\n\nReference: Wright, J.M. (1997): Federal meteorological handbook no. 3 (FCM-H3-1997). Office of Federal Coordinator for Meteorological Services and Supporting Research. Washington, DC\n\nAcknowledgements: This study was partially funded by EU grant 874850 MOOD. The contents of this publication are the sole responsibility of the authors and don't necessarily reflect the views of the European Commission.",
+    "keywords": [
+      "CHELSA",
+      "ERA5-Land",
+      "Europe",
+      "Lyme",
+      "MOOD-H2020",
+      "Meteorological geographical features",
+      "Mosquito borne Flaviviruses",
+      "TBE",
+      "Tularaemia",
+      "USUTU",
+      "WNV",
+      "environment",
+      "geospatial analysis",
+      "meteorology",
+      "relative humidity"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/2cd9570c-6b45-4d06-a827-72f57802aff9~~1",
+    "title": "lindane, gamma-hexachlorocyclohexane in sea water 2017",
+    "description": "As part of the joint federal state measurement program for the North and Baltic Seas, the parameter \"lindane, gamma-hexachlorocyclohexane in sea water\" was determined in seawater.",
+    "keywords": [
+      "2017",
+      "BSH",
+      "Baltic Sea",
+      "Bundesamt für Seeschifffahrt und Hydrographie",
+      "Cyclohexan",
+      "Cyclohexane",
+      "Federal Maritime and Hydrographic Agency",
+      "HCHG",
+      "Monitoring",
+      "Nordsee",
+      "North Sea",
+      "Open Data",
+      "Ostsee",
+      "Wasser",
+      "Water",
+      "open data",
+      "opendata"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/a17128ac-d640-4be4-896d-4edb08f92f95",
+    "title": "RHOMOLO-IO dset 2017",
+    "description": "This dataset contains the 2017 multi-regional Input-Output tables of the RHOMOLO-IO framework which is also used for the calibration of the RHOMOLO CGE model.\nThe construction of the dataset is explained in García Rodríguez et al. (2023) available here:\nhttps://publications.jrc.ec.europa.eu/repository/handle/JRC132883",
+    "keywords": [
+      "RHOMOLO",
+      "growth",
+      "input-output",
+      "region"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/tunbridge-wells-open-data-spend-over-250-financial-year-2017-to-201810",
+    "title": "Tunbridge Wells Open Data - Spend Over £250 - Financial Year 2017 to 2018",
+    "description": "<p>We have published items of spending over £500 since April 2010 and items of spending over £250 from June 2012.</p><p>The list includes payments for:<br /></p><ul><li>Goods and services</li><li>Grants to third party providers and expenses</li></ul><p>Exclusions from the list include the following items (not exhaustive):<br /></p><ul><li>Banking Investments</li><li>Parish precepts</li><li>Election staff payment</li><li>Refunds</li><li>Member Allowances</li><li>Payments relating to employee remuneration</li><li>Payments relating to benefits and homelessness payments</li></ul><p></p><p>Certain payments, for example to private individuals, have been redacted under the Freedom of Information and Data Protection Acts</p>",
+    "keywords": [
+      "Finance",
+      "Spend over 250",
+      "Transparency Code"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/niw-nominated-outputs-delivered-by-pc15-capital-projects-and-programmes-of-work-2019-2020",
+    "title": "NIW NOMINATED OUTPUTS DELIVERED BY PC15 CAPITAL PROJECTS AND PROGRAMMES OF WORK 2019 2020",
+    "description": "NI Water Annual Information Return 2019 2020 Table 40A Nominated Outputs Delivered by PC15 Capital Projects and Programmes of Work",
+    "keywords": [
+      "AIR20",
+      "Annual Information Return 2019 2020",
+      "NI Water",
+      "Northern Ireland Water",
+      "PC15 Capital Projects",
+      "PC15 Programmes of Work",
+      "Table 40A",
+      "nominated outputs"
+    ],
+    "license": "http://reference.data.gov.uk/id/open-government-licence"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/4f368e45-23f5-4e7e-85fd-969867f66ac1",
+    "title": "Reference Land Cover Change in Tai-Sapo 2000-2015 (vector) - version 1, October 2018",
+    "description": "This metadata refers to the Land Cover Change vector data generated over Tai-Sapo (Africa) for  2000-2015 in the framework of the Copernicus Global Land Hot Spot Mapping (C-GL-HSM) contract under the coordination of JRC. \nThis area of interest is either mapped with the generic 8 classes dichotomus legend (WAF_10_lcc_a) or the detailed modular legend (WAF_10_lcc_b).\n\nThe mapped area of interest (AOI) represents a Key Landscape for Conservation area (KLC). The KLC has a total size of 4 million ha (40,000 km²) and is situated at the boundary between Ivory Coast and Liberia. It includes two National Parks: Tai National Park (3,300 km²) in Ivory Coast and Sapo National Park (1,804 km²) in Liberia.\n\nReference time:  2000 - 2015",
+    "keywords": [
+      "Human health and safety"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/alcohol-refreshment-and-late-night-entertainment-licences-issued",
+    "title": "Alcohol, Refreshment and Late Night Entertainment - Licences Issued",
+    "description": "<p>A list of licences issued under the Licencing Act 2003.</p><p>This data will be updated weekly.</p>",
+    "keywords": [
+      "Alcohol",
+      "Late Night Entertainment",
+      "Licence",
+      "Refreshment"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/tunbridge-wells-open-data-annual-financial-report-2016-171",
+    "title": "Tunbridge Wells Open Data - Annual Financial Report 2016/17",
+    "description": "Tunbridge Wells Open Data Transparency Financial Report 2017",
+    "keywords": [
+      "Finance",
+      "Procurement",
+      "Transparency Code",
+      "Tunbridge Wells",
+      "Tunbridge Wells Borough Council"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/ac4eb23d-e584-498e-86ef-7f6ae01f84fd",
+    "title": "Reference Land Cover in Mbam Djerem 2015-2018 (vector) - version 1, January 2018",
+    "description": "This metadata refers to the Land Cover vector data generated over Mbam Djerem (Africa) for 2016 in the framework of the Copernicus Global Land Hot Spot Mapping (C-GL-HSM) contract under the coordination of JRC. \nThis area of interest is either mapped with the generic 8 classes dichotomus legend (CAF_16_lc_a).\n\nThe mapped area of interest (AOI) represents a Key Landscape for Conservation area (KLC). The KLC has a total size of 1million ha (10,000 km²) and is situated in central Cameroon. The Mbam Djerem National Park within the KLC has been established in the year 2000. The National Park has an official area of 429,090 ha (4290.9 km²) and lies within the north-western Congolian lowland forests and northern Congolian forest-savanna mosaic eco-region. The meteo climatic conditions are typical of the tropical area with primary two seasons, a long rainy season from March until October and a short dry season from November until February. The elevation ranges from 660 m to 984 m inside the National Park.\n\nThe park’s habitat diversity makes it the most biologically diverse protected area in Cameroon. However, pressure on the park is expected to increase dramatically, by an estimated 50% in the next 10 years due to the finalization of the Lom Pangar dam in 2017, a new bauxite mining operation, and expansion of both artisanal and commercial gold mining in the area (https://cameroon.wcs.org/).\n\nReference time: 2015 - 2018",
+    "keywords": [
+      "Land cover"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/urn-ine-es-tabla-t3-116-49992",
+    "title": "Flow of emigration abroad of people aged 16 and over by year, country of birth (Spain/abroad) and occupation. EM (API identifier: 49992)",
+    "description": "Table of INEBase\nFlow of emigration abroad of people aged 16 and over by year, country of birth (Spain/abroad) and occupation. Annual. National. Migration Statistic",
+    "keywords": [
+      "Accounting administrative and other office employees",
+      "Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto op",
+      "Basic occupations",
+      "Country of birth",
+      "Craftspersons and skilled workers in manufacturing and construction (except installation and machine",
+      "Directores y gerentes",
+      "Directors and managers",
+      "EM",
+      "Empleados contables administrativos y otros empleados de oficina",
+      "España",
+      "Estadística de Migraciones",
+      "Estadísticas",
+      "Extranjera",
+      "Foreign",
+      "Installation and machinery operators and assemblers",
+      "Migration Statistic",
+      "Military occupations",
+      "No consta",
+      "No data recorded",
+      "Occupation",
+      "Ocupaciones elementales",
+      "Ocupaciones militares",
+      "Ocupación",
+      "Operadores de instalaciones y maquinaria y montadores",
+      "País de nacimiento",
+      "Scientific and intellectual technicians and professionals",
+      "Skilled agricultural livestock forestry and fishing sector workers",
+      "Spain",
+      "Statistics",
+      "Technicians",
+      "Total",
+      "Trabajadores cualificados en el sector agrícola ganadero forestal y pesquero",
+      "Trabajadores de los servicios de restauración personales protección y vendedores",
+      "Técnicos",
+      "Técnicos y profesionales científicos e intelectuales",
+      "Workers in catering personal and protection services and salespersons",
+      "profesionales de apoyo",
+      "support professionals"
+    ],
+    "license": "https://www.ine.es/aviso_legal"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/bd8fe5c1-c9e2-4c12-82ba-56dc068b2360",
+    "title": "Belgian Cancer Registry: Barrett Esophagus RadioFrequency Ablation",
+    "description": "The registration project \"Barrett Esophagus - RadioFrequency Ablation\" (BE-RFA) is an initiative of the National Institute for Health and Disability Insurance (Rijksinstituut voor ziekte- en invaliditeitsverzekering) (RIZIV/INAMI) in collaboration with the medical centers that are recognized by the RIZIV/INAMI to perform radiofrequency ablation (RFA) for Barrett esophagus. \n\n \n\nThe medical centers recognized by the RIZIV/INAMI where RFA is being performed, need to register all entitled persons with Barrett esophagus within this registration project in order to be able to benefit from a compensation of the compulsory insurance for the prestations concerning catheters for RFA for Barrett esophagus.\n\n\nThis registration project is available online since October 2018 and includes all patients for whom one or more RFA treatments were performed since April 1st, 2016. Registration takes place via the Web Based Cancer Registration (WBCR) application of the Belgian Cancer Registry (project module BE-RFA).",
+    "keywords": [
+      "Belgian Cancer Registry",
+      "Belgique (country)",
+      "Belgium (country)",
+      "België (country)",
+      "Fondation Registre du Cancer",
+      "HDBP0161",
+      "Stichting Kankerregister",
+      "Stiftung Krebsregister"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/eo-eum-dat-0239",
+    "title": "Poseidon-4 Altimetry Level 2 Low Resolution (baseline version F06) - Sentinel-6 - Reprocessed",
+    "description": "This is a reprocessed dataset at baseline F06, which is continued by the NRT/NTC data stream from 29/April/2022 onwards.\n\nThe product contain the typical altimetry measurements, like the altimeter range, the sea surface height, the wind speed, significant wave height and all required geophysical corrections and related flags derived from LR. Two measurement data files are available (standard and reduced), each with a different number of variables. The standard data file includes 1 Hz and 20 Hz measurements for the Ku- and C-bands as well as geophysical corrections at 1 Hz and some at 20 Hz. The reduced data file contains only 1 Hz measurements for the Ku- and C-bands as well as geophysical corrections at 1 Hz.\n\nThese products are suitable for users seeking information on sea state and those creating downstream added value products from multiple altimeters.\n\nSentinel-6 is part of a series of Sentinel satellites, under the umbrella of the EU Copernicus programme. It is a collaborative Copernicus mission, implemented and co-funded by the European Commission, ESA, EUMETSAT and the USA, through NASA and the National Oceanic and Atmospheric Administration (NOAA).",
+    "keywords": [
+      "Level 2 Data",
+      "Ocean",
+      "Ocean Surface Wind",
+      "Sea Surface Height",
+      "Wave",
+      "Wind"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/tunbridge-wells-open-data-transparency-community-grants-2017-to-201810",
+    "title": "Tunbridge Wells Open Data - Transparency - Community Grants 2017  to 2018",
+    "description": "Funding of voluntary and community organisations (in excess of £500) - Community Grants",
+    "keywords": [
+      "Community Grants",
+      "Procurement",
+      "Transparency Code"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/d08cd288-a2c5-4c8d-a621-eedc33fab449~~1",
+    "title": "ERA5-Land daily: Air temperature at 2 meter above surface (2000 - 2020)",
+    "description": "Overview:\nERA5-Land is a reanalysis dataset providing a consistent view of the evolution of land variables over several decades at an enhanced resolution compared to ERA5. ERA5-Land has been produced by replaying the land component of the ECMWF ERA5 climate reanalysis. Reanalysis combines model data with observations from across the world into a globally complete and consistent dataset using the laws of physics. Reanalysis produces data that goes several decades back in time, providing an accurate description of the climate of the past.\n\nAir temperature (2 m):\nTemperature of air at 2m above the surface of land, sea or in-land waters. 2m temperature is calculated by interpolating between the lowest model level and the Earth's surface, taking account of the atmospheric conditions.\n\nThe original ERA5-Land dataset (period: 2000 - 2020) has been reprocessed to:\n- aggregate ERA5-Land hourly data to daily data (minimum, mean, maximum)\n- while increasing the spatial resolution from the native ERA5-Land resolution of 0.1 degree (~ 9 km) to 30 arc seconds (~ 1 km)  by image fusion with CHELSA data (V1.2) (https://chelsa-climate.org/).\nFor each day we used the corresponding monthly long-term average of CHELSA. The aim was to use the fine spatial detail of CHELSA and at the same time preserve the general regional pattern and fine temporal detail of ERA5-Land. The steps included aggregation and enhancement, specifically:\n1. spatially aggregate CHELSA to the resolution of ERA5-Land\n2. calculate difference of ERA5-Land - aggregated CHELSA\n3. interpolate differences with a Gaussian filter to 30 arc seconds\n4. add the interpolated differences to CHELSA\n\nData available is the daily average, minimum and maximum of air temperature (2 m).\n\nSpatial resolution:\n30 arc seconds (approx. 1000 m)\n\nTemporal resolution:\nDaily\n\nPixel values:\n°C * 10 (scaled to Integer; example: value 238 = 23.8 %)\n\nSoftware used:\nGDAL 3.2.2 and GRASS GIS 8.0.0 (r.resamp.stats -w; r.relief)\n\nOriginal ERA5-Land dataset license:\nhttps://cds.climate.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-products.pdf\n\nCHELSA climatologies (V1.2):\nData used: Karger D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., Zimmermann, N.E, Linder, H.P., Kessler, M. (2018): Data from: Climatologies at high resolution for the earth's land surface areas. Dryad digital repository. http://dx.doi.org/doi:10.5061/dryad.kd1d4\nOriginal peer-reviewed publication: Karger, D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., Zimmermann, N.E., Linder, P., Kessler, M. (2017): Climatologies at high resolution for the Earth land surface areas. Scientific Data. 4 170122. https://doi.org/10.1038/sdata.2017.122",
+    "keywords": [
+      "Lyme",
+      "MOOD-H2020",
+      "Mosquito borne Flaviviruses",
+      "TBE",
+      "Tularaemia",
+      "USUTU",
+      "WNV",
+      "air temperature"
+    ],
+    "license": "http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/sheep-summering-sex-identitas",
+    "title": "Sheep - Summering by sex",
+    "description": "Number of registered and living sheep in the summering zone by sex in Switzerland and in Liechtenstein. The annual view shows the number of animals as of July 25 (DZV Artikel 98).",
+    "keywords": [
+      "animale-da-reddito",
+      "animaux-de-rente",
+      "estivage",
+      "estivazione",
+      "livestock",
+      "nutztiere",
+      "ovini",
+      "ovins",
+      "schafe",
+      "sheep",
+      "sommerung",
+      "summering"
+    ],
+    "license": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/chief-officer-salaries",
+    "title": "Chief Officer Salaries - FY2023/2024",
+    "description": "<p>Leicester City Council's Head of Paid Service, Strategic Directors and Divisional Directors are employed on LCC Chief Officer pay scales between SCP points 6 to 22.  This table provides details of the salary ranges associated with each post at the point of publishing.</p>",
+    "keywords": [
+      "Salaries"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/ut7ekqyj6qq3ojpvem2jmw",
+    "title": "Private investment and gross added value related to circular economy sectors",
+    "description": "<p>The indicator includes “Gross investment in tangible goods” and “Value added at factor costs” in the following three sectors: the recycling sector, repair and reuse sector and rental and leasing sector.</p><ul><li>Gross investment in tangible goods is defined as investment during the reference year in all tangible goods. Included are new and existing tangible capital goods, whether bought from third parties or produced for own use (i.e. capitalised production of tangible capital goods), having a useful life of more than one year including non-produced tangible goods such as land. Investments in intangible and financial assets are excluded.</li><li>Value added at factor costs is the gross income from operating activities after adjusting for operating subsidies and indirect taxes. It can be calculated as the sum of turnover, capitalized production, other operating income, increases minus decreases of stocks, and deducting the following items: purchases of goods and services, other taxes on products which are linked to turnover but not deductible, duties and taxes linked to production. Value adjustments (such as depreciation) are not subtracted.</li></ul><p><br></p><p>The indicator is calculated in three steps as follows:</p><ol><li>Conceptual framework. The delineation of economic activities related to the circular economy was determined by means of a sector classification based on the purpose of each sector.&nbsp;</li><li>The relevant activities were identified and matched against the integrated system of economic classification, drawing upon existing lists of goods and services for the environmental sector.</li><li>Produce the estimates based on official statistics, in particular structural business statistics, PRODCOM, national accounts, the Labour Force Survey and others.</li></ol><p><br></p>",
+    "keywords": [
+      "Entité géopolitique (déclarante)",
+      "Environment indicator",
+      "Fréquence (relative au temps)",
+      "Geopolitical entity (reporting)",
+      "Geopolitische Meldeeinheit",
+      "Indicateur de l'environnement",
+      "Maßeinheit",
+      "Time frequency",
+      "Umweltindikator",
+      "Unit of measure",
+      "Unité de mesure",
+      "Zeitliche Frequenz"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/espigmeservicioatlasgeoquimicagd20210625~~1",
+    "title": "Visualisation service (WMS) of the Map of Gadolinium Isovalues (Geochemical Atlas of Spain, 2012).",
+    "description": "Visualisation service of the Map of Gadolinium (Gd) isocontents, one of the chemical elements obtained in the Geochemical Atlas of Spain Project, distributed in stream sediments (14,864 samples), superficial soils (0-20 cm.) (13,505 samples) and deeper soils (20-40 cm.) (7,682 samples).",
+    "keywords": [
+      "EGDI",
+      "EGDI-selection",
+      "Geochemistry",
+      "GeologY",
+      "Geología",
+      "Geoquímica",
+      "Heatlh",
+      "IGCP 259",
+      "Minería",
+      "Mining",
+      "Muestra",
+      "Salud",
+      "Sample"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/employees-gender-and-sexual-orientation",
+    "title": "Employees - gender and sexual orientation",
+    "description": "<p>Breakdown of Leicester City Council's employees (excluding schools and casual workers) providing headcount and full time equivalent by gender and sexual orientation.</p><p>This information is provided on a quarterly basis.</p>",
+    "keywords": [
+      "Employees",
+      "Gender",
+      "Sexual Identity",
+      "Sexual Orientation"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/water-chemistry-measured-from-peatland-sub-catchments-in-the-flow-country-scotland-fo-2019-2020",
+    "title": "Water chemistry measured from peatland sub-catchments in the Flow Country, Scotland following a wildfire 2019-2020",
+    "description": "The dataset contains water chemistry data collected from peatland headwaters across the Flow Country following a wildfire in May 2019. Samples were collected on a monthly basis from 52 sites across the region from September 2019 to October 2020. Sampling sites were selected to represent peatland catchments in the following conditions: burned near natural, burned drained, unburned near natural, unburned drained and unburned forested. Data were obtained via collection of water samples in situ, and concentrations were derived via subsequent sample processing and analysis. Full details about this dataset can be found at https://doi.org/10.5285/57748e4f-d0a4-4648-8a61-bd1c2066db1e",
+    "keywords": [
+      "Flow Country",
+      "Habitats and Biotopes",
+      "Peatlands",
+      "UK",
+      "wildfire"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/parking-places-scooters-cycle-hire",
+    "title": "Parking Places (Scooters/Cycle Hire)",
+    "description": "Scooter parking place",
+    "keywords": [
+      "Scooter",
+      "bays",
+      "parking"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/focal-points1",
+    "title": "Focal Points",
+    "description": "Identified Focal Points relate to views within the townscape of the City Centre which need to be considered in the design of development.",
+    "keywords": [
+      "land management and planning",
+      "local development",
+      "local government policy",
+      "planning permission",
+      "policy planning",
+      "urban design",
+      "urban development",
+      "urban landscape",
+      "urban planning"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/c56d51b2-aa73-4da8-8184-67d3d6816f16",
+    "title": "GHS-BUILT-LAUSTAT R2023A - GHS built-up surface statistics in European LAU, multitemporal (1975-2020)",
+    "description": "This product contains the summary statistics of GHS-BUILT-S multi-temporal (1975-2020) at Local Administrative Unit Level (LAU) from the 2020 layer provided  by GISCO.\nFor each LAU the table contains the sum of built-up surface (GHS-BUILT-S) between 1975 and 2020 in 5 years interval, expressed in square kilometres.",
+    "keywords": [
+      "Built-up surface",
+      "EU",
+      "Europe",
+      "GHS-BUILT",
+      "GHSL",
+      "LAU",
+      "SDG 11",
+      "SDG monitoring"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/rio-bc_hmean",
+    "title": "Interpolated air quality maps of Belgium",
+    "description": "The air quality measurements are interpolated on a 4x4 km² grid using Corine Land Cover.",
+    "keywords": [
+      "Atmospheric conditions",
+      "Belgium",
+      "Conditions atmosphériques",
+      "Dataflow E",
+      "Dataflow F",
+      "EU Directive 2008/50/EC",
+      "EU environmental policy",
+      "Intergewestelijke",
+      "Interregional",
+      "Kwaliteitsmetingen en modelleringsgegevens (Richtlijn Luchtkwaliteit)",
+      "Measurement and modelling data (Air Quality Directive)",
+      "Nationaal",
+      "National",
+      "Nationales",
+      "RIO 4x4",
+      "Reporting INSPIRE",
+      "air",
+      "air policy",
+      "air quality",
+      "air quality management",
+      "air quality monitoring",
+      "area management",
+      "contrôle de la qualité de l'air",
+      "environmental assessment",
+      "environmental policy",
+      "evaluation method",
+      "gestion de la qualité de l'air",
+      "method",
+      "monitoring of pollution",
+      "monitoring stations",
+      "méthode",
+      "méthode d'évaluation",
+      "politique de l'environnement",
+      "pollutant assessment",
+      "qualité de l'air",
+      "évaluation des polluants",
+      "évaluation environnementale"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/urn-ine-es-tabla-px-t20-e244-viviendas-p04-mun01_01",
+    "title": "Main dwellings according to number of rooms (API identifier: /t20/e244/viviendas/p04/l0/mun01_01.px)",
+    "description": "Table of INEBase\nMain dwellings according to number of rooms. National. Population and Housing Censuses",
+    "keywords": [
+      "01002 Amurrio",
+      "01036 Laudio/Llodio",
+      "9 o más",
+      "9 or more",
+      "Censos de Población y Viviendas",
+      "Estadísticas",
+      "Population and Housing Censuses",
+      "Statistics",
+      "Total",
+      "Total (n de habitaciones)",
+      "Total (number of rooms)",
+      "municipalities(not provincial capitals from 10000 to 1000000 inhabitants)",
+      "municipios(de 10.000 a 100.000 habitantes que no sean capitales de provincia)",
+      "n de habitaciones",
+      "number of rooms"
+    ],
+    "license": "https://www.ine.es/aviso_legal"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/a72f738b-6704-4d00-98d7-a83f61346560~~1",
+    "title": "ERA5-Land daily: Surface temperature (2000 - 2020)",
+    "description": "Overview:\nERA5-Land is a reanalysis dataset providing a consistent view of the evolution of land variables over several decades at an enhanced resolution compared to ERA5. ERA5-Land has been produced by replaying the land component of the ECMWF ERA5 climate reanalysis. Reanalysis combines model data with observations from across the world into a globally complete and consistent dataset using the laws of physics. Reanalysis produces data that goes several decades back in time, providing an accurate description of the climate of the past.\n\nSurface temperature:\nTemperature of the surface of the Earth. The skin temperature is the theoretical temperature that is required to satisfy the surface energy balance. It represents the temperature of the uppermost surface layer, which has no heat capacity and so can respond instantaneously to changes in surface fluxes.\n\nThe original ERA5-Land dataset (period: 2000 - 2020) has been reprocessed to:\n- aggregate ERA5-Land hourly data to daily data (minimum, mean, maximum)\n- while increasing the spatial resolution from the native ERA5-Land resolution of 0.1 degree (~ 9 km) to 30 arc-sec (~ 1 km)  by image fusion with CHELSA data (V1.2) (https://chelsa-climate.org/).\nFor each day we used the corresponding monthly long-term average of CHELSA. The aim was to use the fine spatial detail of CHELSA and at the same time preserve the general regional pattern and fine temporal detail of ERA5-Land. The steps included aggregation and enhancement, specifically:\n1. spatially aggregate CHELSA to the resolution of ERA5-Land\n2. calculate difference of ERA5-Land - aggregated CHELSA\n3. interpolate differences with a Gaussian filter to 30 arc seconds\n4. add the interpolated differences to CHELSA\n\nData available is the daily average, minimum and maximum of surface temperature.\n\nSoftware used:\nGDAL 3.2.2 and GRASS GIS 8.0.0 (r.resamp.stats -w; r.relief)\n\nOriginal ERA5-Land dataset license:\nhttps://cds.climate.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-products.pdf\n\nCHELSA climatologies (V1.2):\nData used: Karger D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., Zimmermann, N.E, Linder, H.P., Kessler, M. (2018): Data from: Climatologies at high resolution for the earth's land surface areas. Dryad digital repository. http://dx.doi.org/doi:10.5061/dryad.kd1d4\nOriginal peer-reviewed publication: Karger, D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., Zimmermann, N.E., Linder, P., Kessler, M. (2017): Climatologies at high resolution for the Earth land surface areas. Scientific Data. 4 170122. https://doi.org/10.1038/sdata.2017.122",
+    "keywords": [
+      "Lyme",
+      "MOOD-H2020",
+      "Mosquito borne Flaviviruses",
+      "TBE",
+      "Tularaemia",
+      "USUTU",
+      "WNV",
+      "surface temperature"
+    ],
+    "license": "http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/parking-account4",
+    "title": "Parking Account",
+    "description": "The council's parking account, including a breakdown of income and expenditure and detail of how any surplus is spent.",
+    "keywords": [
+      "Local Government Transparency Code"
+    ],
+    "license": "http://reference.data.gov.uk/id/open-government-licence"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/df03aef2-b89d-4a17-a7da-9c2861910d01",
+    "title": "DATASET Elements Democratic Memory",
+    "description": "Situation of the elements that have the purpose of providing information about the violence and repression exercised during the Civil War and the Franco dictatorship and also the function of preserving the memory of the victims and of the repression, the evidence of the crimes committed against them through the their testimonies and documentation. Its recipients are researchers and researchers, memorialist and human rights organizations, victims and their relatives, and society in general.",
+    "keywords": [
+      "Democratic Memory",
+      "GOIB",
+      "Govern de les Illes Balears",
+      "Illes Balears",
+      "Memoria Democrática",
+      "Memòria Democràtica"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/https-analisi-transparenciacatalunya-cat-api-views-ne55-4fc5",
+    "title": "Territorial areas of the education sector",
+    "description": "Delimitació de les dotze àrees territorials en els quals s'organitza territorialment el Departament d’Educació, vigents des del curs 2022-2023.",
+    "keywords": [
+      "dades_de_referència",
+      "educació",
+      "serveis",
+      "territorial",
+      "àrees"
+    ],
+    "license": "https://governobert.gencat.cat/ca/dades_obertes/llicencia-oberta-informacio-catalunya/"
+  }
+]

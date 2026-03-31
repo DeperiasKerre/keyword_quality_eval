@@ -1,0 +1,475 @@
+[
+  {
+    "id": "http://data.europa.eu/88u/dataset/ingv-https-data-ingv-it-metadata-iso19115-297-xml",
+    "title": "Italian Tsunami Effects Database (ITED)",
+    "description": "ITED (Italian Tsunami Effects Database) is the first database of descriptions of tsunami effects observed along the Italian coasts from 79 A.D. to date and was created as an extension of the Italian part of EMTC. ITED provides information on how much and how a location has been affected over time by the effects of tsunamis. For each observation point, ITED contains the description of the effects produced by the tsunami, together with the relevant bibliographic references and it is possible to know the \\\"tsunami history\\\" at each observation point. currently ITED contains 300 observations of tsunami effects (OP) in 186 places (PN) along the italian coasts and it is available through a specially designed Webapp, developed in Esri ArcGIS environment. The Webapp also allows you to make a switch on EMTC2.0 to have more information available about an event.",
+    "keywords": [
+      "EU",
+      "Italian coasts",
+      "historical tsunamis",
+      "open data",
+      "tsunami",
+      "tsunami effects"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/spaicv030401_2017pcas0100",
+    "title": "LIDAR Digital Surface Model (DSM) of 1 meter resolution covering the province of Castellón 2017",
+    "description": "Digital Surface Model (DSM) with ground sample distance (GSD) of 1 meter of the province of Castellón. Model made up of the 2017 LIDAR classes: ground (class 2), low, medium and high vegetation (classes 3, 4 and 5), buildings (class 6), transmission tower (class 15) and bridge decks (class 17). The distribution format of the files is GeoTIFF 32 bits. The unloading unit is by sheets MTN50. ETRS89 geodetic reference system and UTM projection in zone 30. Orthometric heights. Product derived from LiDAR-PNOA 2017 CC-BY 4.0 scne.es",
+    "keywords": [
+      "2017",
+      "Comunitat Valenciana",
+      "DSM",
+      "Elevation",
+      "Espanya",
+      "España",
+      "ICV",
+      "ICV_CLAS:Elevation;Product derived",
+      "ICV_CLAS:Relieve;Productos derivados",
+      "ICV_CLAS:Relleu;Productes derivats",
+      "MDS",
+      "PNOA-LiDAR",
+      "Relieve",
+      "Relleu",
+      "Spain"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/https-geo-irceline-be-csw-srv-api-records-4a4f5e3c-91ce-4f1c-8bbf-cd8b2e87fb5d-formatters-xml",
+    "title": "Air quality monitoring network of Belgium",
+    "description": "The air quality monitoring networks in Belgium are used for the assessment of air quality under the air quality directives (2008/50/EC & 2004/107/EC).",
+    "keywords": [
+      "Belgique",
+      "Belgium",
+      "Dataflow D",
+      "Dataflow E",
+      "Dataflow F",
+      "EU Directive 2008/50/EC",
+      "EU environmental policy",
+      "Environmental monitoring facilities",
+      "Installations de suivi environnemental",
+      "Milieubewakingsvoorzieningen",
+      "Monitoring stations (Air Quality Directive)",
+      "Monitoring stations (Richtlijn Luchtkwaliteit)",
+      "Nationaal",
+      "National",
+      "Nationales",
+      "Reporting INSPIRE",
+      "Umweltüberwachung",
+      "air",
+      "air policy",
+      "air quality",
+      "air quality management",
+      "air quality monitoring",
+      "area management",
+      "contrôle de la qualité de l'air",
+      "environmental assessment",
+      "environmental policy",
+      "evaluation method",
+      "gestion de la qualité de l'air",
+      "method",
+      "monitoring of pollution",
+      "monitoring stations",
+      "méthode",
+      "méthode d'évaluation",
+      "politique de l'environnement",
+      "pollutant assessment",
+      "qualité de l'air",
+      "évaluation des polluants",
+      "évaluation environnementale"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/b5dc433d-3a55-4943-9252-04c767480e70~~1",
+    "title": "Single Beam Echosounder Data - North Sea 2016 9301610",
+    "description": "The present Single Beam Echosounder Data were recorded within the framework of the hydrographic survey of the Federal Maritime and Hydrographic Agency, but were not subjected to any further quality assurance or validation. Please note that these data sets are raw data.",
+    "keywords": [
+      "BSH",
+      "Bathymetrie",
+      "Bathymetry",
+      "Bundesamt für Seeschifffahrt und Hydrographie",
+      "Elevation",
+      "Federal Maritime and Hydrographic Agency",
+      "Hydrographie",
+      "Hydrography",
+      "Höhe",
+      "Meeresboden",
+      "Open Data",
+      "Seabed",
+      "Seevermessung",
+      "Topographie",
+      "Topography",
+      "hydrographic survey",
+      "open data",
+      "opendata"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/dc0eb21d-472c-4f5a-8846-823c50836305",
+    "title": "GHS-DUC R2023A - GHS Degree of Urbanisation Classification, application of the Degree of Urbanisation methodology (stage II) to GADM 4.1 layer, multitemporal (1975-2030)",
+    "description": "This dataset contains the Global Degree of Urbanisation Classification of administrative units delineated by the Global ADMinistrative layer version 4.1 (GADM41) according to the application of stage II of the Degree of Urbanisation. The classification is based on the Global Human Settlement Layer (GHSL) global datasets GHS R2023: the settlement classification GHS-SMOD (GHS-SMOD_GLOBE_R2023A) and population grid GHS-POP (GHS-POP_GLOBE_R2023A) layers for target years 1975-2030 (5 years timestep). \nThis dataset contains a package composed by one excel table, a summary table gathering global summary statistics and by countries and territories in GADM4.1, and 72 CSV files, one per GADM level (from 0 to 5) and epoch (1975-2030), with all administrative units classified according to the Degree of Urbanisation. The spatial delineation of GADM 4.1 administrative units is available at GADM official website (accessible through the link below). Please select the whole world shapefile as six separate layers (one for each level of subdivision/aggregation). The vector layers can be used to join each classification table (csv) with the actual spatial units.",
+    "keywords": [
+      "Big Data",
+      "DEGURBA",
+      "Degree of Urbanisation",
+      "GADM 4.1",
+      "GHS DUC",
+      "GHS SMOD",
+      "GHS-DUC",
+      "GHS-SMOD",
+      "GHSL",
+      "Global"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/spaicv030401_wmscd2016pali0100",
+    "title": "WMS visualization service of the MTN50 sheet download DSM01 Lidar 2016 GeoTIFF",
+    "description": "The WMS (Web map service) service allows you to view the MTN50 sheet download grid of the 1 m DSM resource for the year 2016 in the province of Alicante",
+    "keywords": [
+      "ICV_CLAS:Elevation;DTM",
+      "ICV_CLAS:Relieve;MDT",
+      "ICV_CLAS:Relleu;MDT",
+      "OGC",
+      "OGC:WMS-1.3.0",
+      "PNOA-LiDAR",
+      "WMS"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/nodeid4047",
+    "title": "Road accidents 2021",
+    "description": "Description: Road accidents with fatalities and casualties, by date, day of the week, time of the day and several other accident factors \n Period: 2021 \n Metadata: Variables \n More information, data and publications on this topic on Statbel",
+    "keywords": [
+      "Accidents et victimes de la circulation",
+      "Circulation",
+      "Mobiliteit",
+      "Mobility",
+      "Mobilität",
+      "Mobilité",
+      "Road accidents",
+      "Verkeer",
+      "Verkeersongevallen en -slachtoffers",
+      "Verkehr",
+      "Verkehrsunfällen"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/a78a63ba-b749-453f-a63c-8c85ac462cb7~~1",
+    "title": "polychlorobiphenyl no. 118 in sea water 2017",
+    "description": "As part of the joint federal state measurement program for the North and Baltic Seas, the parameter \"polychlorobiphenyl no. 118 in sea water\" was determined in seawater.",
+    "keywords": [
+      "2017",
+      "BSH",
+      "Baltic Sea",
+      "Bundesamt für Seeschifffahrt und Hydrographie",
+      "CB118",
+      "Federal Maritime and Hydrographic Agency",
+      "Monitoring",
+      "Nordsee",
+      "North Sea",
+      "Open Data",
+      "Ostsee",
+      "Polychlorbiphenyl",
+      "Polychlorobiphenyl",
+      "Wasser",
+      "Water",
+      "open data",
+      "opendata"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/nodeid2106",
+    "title": "Road casualties 2017",
+    "description": "Description: Number of fatalities, serious casualties and light casualties in road accidents, by age group, type of road user, sex and several other accident characteristics. \n Period: 2017 \n Metadata: Variables \n More information, data and publications on this topic on Statbel",
+    "keywords": [
+      "Accidents et victimes de la circulation",
+      "Circulation",
+      "Mobiliteit",
+      "Mobility",
+      "Mobilité",
+      "Road accidents",
+      "Verkeer",
+      "Verkeersongevallen en -slachtoffers"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/nodeid3342",
+    "title": "Population according to the km² grid",
+    "description": "Description: Vector file and population residing in Belgium on 1 January 2020 on a grid made up of a square areas with sides of 1 km \n Period: 01.01.2020 \n Metadata: Variables \n More information, data and publications on this topic on Statbel",
+    "keywords": [
+      "Bevolking",
+      "Bevölkerung",
+      "Bevölkerungsstruktur",
+      "Fichiers géographiques",
+      "Geografische bestanden",
+      "Geographic files",
+      "Population",
+      "Structure de la population",
+      "Structure of the Population",
+      "Structuur van de bevolking",
+      "Tools"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/https-data-gov-cz-zdroj-datove-sady-00245836-1118577241",
+    "title": "Official bulletin board - municipality of Cesky Krumlov",
+    "description": "data from the official bulletin board of the municipality of Cesky Krumlov",
+    "keywords": [
+      "bulletin board",
+      "úřední deska"
+    ],
+    "license": "https://data.gov.cz/zdroj/datové-sady/00245836/1118577241/distribuce/7525e1478a5915d0433e87a4d1c1536f/podmínky-užití"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/tunbridge-wells-open-data-annual-financial-report-2015-161",
+    "title": "Tunbridge Wells Open Data - Annual Financial Report 2015/16",
+    "description": "Tunbridge Wells Open Data - Transparency - Financial Report 2016",
+    "keywords": [
+      "Finance",
+      "Procurement",
+      "Transparency Code",
+      "Tunbridge Wells",
+      "Tunbridge Wells Borough Council"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/b572492d-24f6-408d-82b9-2cf3377e059c~~1",
+    "title": "Single Beam Echosounder Data - North Sea 2016 9151614",
+    "description": "The present Single Beam Echosounder Data were recorded within the framework of the hydrographic survey of the Federal Maritime and Hydrographic Agency, but were not subjected to any further quality assurance or validation. Please note that these data sets are raw data.",
+    "keywords": [
+      "BSH",
+      "Bathymetrie",
+      "Bathymetry",
+      "Bundesamt für Seeschifffahrt und Hydrographie",
+      "Elevation",
+      "Federal Maritime and Hydrographic Agency",
+      "Hydrographie",
+      "Hydrography",
+      "Höhe",
+      "Meeresboden",
+      "Open Data",
+      "Seabed",
+      "Seevermessung",
+      "Topographie",
+      "Topography",
+      "hydrographic survey",
+      "open data",
+      "opendata"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/a8767262-1b4a-4e3b-8a01-9e2292536ea7~~1",
+    "title": "pyrene in sea water 2017",
+    "description": "As part of the joint federal state measurement program for the North and Baltic Seas, the parameter \"pyrene in sea water\" was determined in seawater.",
+    "keywords": [
+      "2017",
+      "BSH",
+      "Baltic Sea",
+      "Bundesamt für Seeschifffahrt und Hydrographie",
+      "Federal Maritime and Hydrographic Agency",
+      "Monitoring",
+      "Nordsee",
+      "North Sea",
+      "Open Data",
+      "Ostsee",
+      "PYR",
+      "Pyren",
+      "Pyrene",
+      "Wasser",
+      "Water",
+      "open data",
+      "opendata"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/nodeid1643",
+    "title": "First names of newborns by municipality",
+    "description": "Description: First names of newborns by municipality \n Period: 2008-2017 \n Metadata: We only publish figures from 5 occurrences. \n More information, data and publications on this topic on Statbel",
+    "keywords": [
+      "Bevolking",
+      "Namen",
+      "Names",
+      "Noms",
+      "Population"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/6e614923-3c94-4828-bb92-49d3da4ae0c5",
+    "title": "Burnt Area NRT Incremental Product - MODIS - Europe, Daily",
+    "description": "The product is automatically derived from Aqua/Terra (MODIS) satellite imagery in near-real time. It is an incremental product, meaning that the retrieved results are updated as soon as new input data becomes available over a timespan of ten days. Besides the fire perimeter and detection time, each feature contains information about the severity of the burning.",
+    "keywords": [
+      "Burn Severity",
+      "Burnt Area",
+      "Europe",
+      "MODIS",
+      "Near-Realtime",
+      "daily",
+      "inspireidentifiziert",
+      "time-series"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/espigmemagna502016052421108-1~~1",
+    "title": "Geological Map of Spain. Scale 1:50.000 - Sheet 1108 - SAN NICOLAS DE TOLENTINO",
+    "description": "The sheet 1108 (SAN NICOLAS DE TOLENTINO) of the National Geological Map (MAGNA), was made in 2010 and published in 1994 by the Geological Survey of Spain. It is distributed at scale 25000. The geological map shows the nature of materials (rocks and sediments) that appear on the surface, their spatial distribution and geometric relationships between the different cartographic units represented.\nA geological mapping unit is the grouping of one or more lithologies with common age range, which is represented on the map at a scale or defined resolution. Each mapping unit, and the different geological structures, is represented on the map with a symbolism itself. The representation of these units on the topographic base map provides some three-dimensional information that is completed with other geological data and geological sections, stratigraphic profiles, polls, etc. The map legend is a pictogram representing the spatial relationship of the different mapping units (chronology, overlapping, geometric relationship, lateral facies changes, etc.). It also includes structural, hydrogeological and geological location of the sheet within the regional schemes.\nSince 1991, the Geological Map Series MAGNA is made inseparably with the geomorphological map on the same scale. This map incorporates everything on the surface geology and provides a structured and accurate information of the  land forms. It is organized on the basis of morphogenesis and morphocronology incorporated the map using the corresponding chronostratigraphic column included in a table / legend inspired by the geological map. The forms, erosional and depositional, are represented on the map by individualized by symbols and patterns of color and surface deposits or lithological formations elements that provide information.\nFor each sheet of the series MAGNA there is an explanatory report published, edited and in digital format.\nThe digital information is stored in coverage  and Shape format (ESRI). There is a guide that describes the physical structure of the digital information and its codification.",
+    "keywords": [
+      "EGDI"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/a8a791cc-717a-4d47-83ac-7a675fed9d19",
+    "title": "SWACI - Total Electron Content (TEC) Level 2 - Global",
+    "description": "SWACI is a research project of DLR supported by the State Government of Mecklenburg-Vorpommern. Radio signals, transmitted by modern communication and navigation systems may be heavily disturbed by space weather hazards. Thus, severe temporal and spatial changes of the electron density in the ionosphere may significantly degrade the signal quality of various radio systems which even may lead to a complete loss of the signal. By providing specific space weather information, in particular now- and forecast of the ionospheric state, the accuracy and reliability of impacted communication and navigation systems shall be improved.\nThe total electron content (TEC) is defined as the integral of the electron density along the ray path between satellite and receiver. Thus, TEC provides the number of electrons per square meter. The most frequently used unit is 1TECU = 1x1016 electrons / m2. \nTEC is derived from dual frequency code and carrier phase measurements provided by Global Navigation Satellite Systems (GNSS). SWACI uses GPS measurements from various European GNSS networks such as the International GNSS Service (IGS), European Reference Frame (EUREF), Norwegian Mapping Authority (NMA), and ascos distributed by the Federal Agency of Cartography and Geodesy (BKG) Frankfurt. The global TEC maps are mainly created by using data provided by the International GNSS Service Real-Time Pilot Project (IGS-RTPP). \nTo generate TEC maps of vertical TEC, the slant measurements have to be transformed to the vertical. In a first approximation the ionospheric range error in GNSS is proportional to TEC. \nThese TEC maps are used to derive latitudinal and zonal gradients, rate of change of TEC (5 min increments), 27 days medians, hourly forecasts of TEC, and corresponding error estimates. \nSpatial resolution (latitude x longitude): 2 °x 2° (Europe), 2.5° x 5° (globally)",
+    "keywords": [
+      "Ionosphere",
+      "SWACI",
+      "TEC",
+      "global total electron content",
+      "urn:eop:DLR:EOWEB:SWACI.GROUNDBASED.TEC.GB.L2"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/accounts-payable-supplier-payments-summary",
+    "title": "Accounts Payable - Supplier payments summary",
+    "description": "<p>\nRegulation 113 of the Public Contract Regulation Act 2015 requires all contracting authorities to pay undisputed invoices within 30 days. When disputed invoice payments are not paid within this 30 day period, interest becomes payable on the outstanding amount as set out in the Late Payment Legislation.<p>There is a requirement under Regulation 113(7) of the Public Contracts Regulations Act 2015 that from April 2016 onwards the authority must publicise the following information: </p><ol> \n<li>Percentage of Invoices to first tier suppliers / prime contractors of invoices (not under dispute) paid within 30 days</li><li>The amount of interest paid to suppliers due to late payments</li><li>The total amount of interest that the contracting authority is liable to pay (whether or not paid) due to breach of Regulation 113 </li></ol></p>",
+    "keywords": [
+      "Payments",
+      "Suppliers"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/cbd39424-7014-4c9c-a051-df2f8c680552~~1",
+    "title": "Single Beam Echosounder Data - North Sea 2018 9511801",
+    "description": "The present Single Beam Echosounder Data were recorded within the framework of the hydrographic survey of the Federal Maritime and Hydrographic Agency, but were not subjected to any further quality assurance or validation. Please note that these data sets are raw data.",
+    "keywords": [
+      "BSH",
+      "Bathymetrie",
+      "Bathymetry",
+      "Bundesamt für Seeschifffahrt und Hydrographie",
+      "Elevation",
+      "Federal Maritime and Hydrographic Agency",
+      "Hydrographie",
+      "Hydrography",
+      "Höhe",
+      "Meeresboden",
+      "Open Data",
+      "Seabed",
+      "Seevermessung",
+      "Topographie",
+      "Topography",
+      "hydrographic survey",
+      "open data",
+      "opendata"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/https-dane-gov-pl-pl-dataset-2924-postepowania-habilitacyjne-prowadzone-w-instytucie",
+    "title": "Postępowania habilitacyjne prowadzone w Instytucie Fizyki Molekularnej PAN",
+    "description": "<p>Postępowania habilitacyjne prowadzone w Instytucie Fizyki Molekularnej PAN</p>",
+    "keywords": [
+      "postępowanie habilitacyjne"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/tunbridge-wells-open-data-transparency-annual-audit-letter-20172",
+    "title": "Tunbridge Wells Open Data - Transparency - Annual Audit Letter 2017",
+    "description": "<span>An independent audit of the financial statements and value for money offered by the council.</span>",
+    "keywords": [
+      "Annual Audit Letter",
+      "Finance",
+      "Procurement",
+      "Transparency Code",
+      "Tunbridge Wells",
+      "Tunbridge Wells Borough Council"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/expenditure-exceeding-500-2018",
+    "title": "Expenditure exceeding £500 - 2018",
+    "description": "<p>Details of each individual item of expenditure that exceeds £500 for the year.  This includes items of expenditure consistent with Local Government Association guidance such as individual invoices, grant payments, payments for goods and services, grants, grant in aid, rent, credit notes over £500 and transactions with other public bodies.<p>Data has been excluded or redacted from the publication in line with guidance issued by the Local Government Association.  This can be redacted personal data, commercial confidentiality or where the data would reveal information which would compromise security, health &amp; safety or crime prevention.</p><p>This data is updated monthly.</p></p>",
+    "keywords": [
+      "Accounts",
+      "Finance",
+      "Grants",
+      "Invoices",
+      "Transparency"
+    ],
+    "license": null
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/qqzlg0goakjilmtrbgnb3a",
+    "title": "Population on 1st January by age, sex, type of projection and other typologies",
+    "description": "Population on 1st January by age, sex, type of projection and other typologies",
+    "keywords": [
+      "Age class",
+      "Altersklasse",
+      "Art der Vorausberechnung",
+      "Classe d'âge",
+      "Entité géopolitique (déclarante)",
+      "Fréquence (relative au temps)",
+      "Geopolitical entity (reporting)",
+      "Geopolitische Meldeeinheit",
+      "Geschlecht",
+      "Maßeinheit",
+      "Sex",
+      "Sexe",
+      "Territorial typology",
+      "Territoriale Typologie",
+      "Time frequency",
+      "Type de projection",
+      "Type of projection",
+      "Typologie territoriale",
+      "Unit of measure",
+      "Unité de mesure",
+      "Zeitliche Frequenz"
+    ],
+    "license": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+  },
+  {
+    "id": "http://data.europa.eu/88u/dataset/ba5e65dc-08f7-4315-9249-ecd0ad0df59a~~1",
+    "title": "Single Beam Echosounder Data - North Sea 2015 9411506",
+    "description": "The present Single Beam Echosounder Data were recorded within the framework of the hydrographic survey of the Federal Maritime and Hydrographic Agency, but were not subjected to any further quality assurance or validation. Please note that these data sets are raw data.",
+    "keywords": [
+      "BSH",
+      "Bathymetrie",
+      "Bathymetry",
+      "Bundesamt für Seeschifffahrt und Hydrographie",
+      "Elevation",
+      "Federal Maritime and Hydrographic Agency",
+      "Hydrographie",
+      "Hydrography",
+      "Höhe",
+      "Meeresboden",
+      "Open Data",
+      "Seabed",
+      "Seevermessung",
+      "Topographie",
+      "Topography",
+      "hydrographic survey",
+      "open data",
+      "opendata"
+    ],
+    "license": null
+  }
+]
