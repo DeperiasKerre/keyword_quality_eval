@@ -9,5 +9,5 @@ License](http://creativecommons.org/licenses/by/4.0/).
 
 ### Acknowledgements
 * This work was funded by the FNRS grant (postdoc fellowship) under the project "Context Aware Data Integration".
-### Acknowledgements
+### Citation
 * TBD
