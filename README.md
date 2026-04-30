@@ -1,7 +1,6 @@
-# Metadata Enrichment with Ontology Guided-LLM
-* The repository contains the materials (source code and data) for the work proposed in the paper "Ontology-Guided LLM based Approach for Metadata Enrichment in Open Data Portals".
-* A hybrid pipeline that combines LLM-based semantic extraction with ontology grounding is proposed. Semantic concepts are extracted from metadata description, aligned with ontology concepts, and used to generate enriched metadata with semantic tags.
-
+# Keyword Quality Conceptualization and Evaluation on Open Data Portals
+* The repository contains the materials (source code and data) for the work proposed in the paper "Understanding Dataset Discoverability: A Conceptual Framework and Empirical Evaluation of Keyword Quality in Open Data Portals".
+* This work proposes a conceptualization of keyword quality and evaluates in onoepn data portals. It also positions keyword quality as a founadtion for data discoverability on open data portals.
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License](http://creativecommons.org/licenses/by/4.0/).
