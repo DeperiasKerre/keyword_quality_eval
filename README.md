@@ -8,6 +8,6 @@ License](http://creativecommons.org/licenses/by/4.0/).
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ### Acknowledgements
-* This work was funded by the FNRS grant (postdoc fellowship) under the project "Context Aware Data Integration".
+* This work was funded by the FNRS postdoc fellowship grant under the project "Context Aware Data Integration".
 ### Citation
 * TBD
