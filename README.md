@@ -1,6 +1,6 @@
 ## Keyword Quality Conceptualization and Evaluation on Open Data Portals
 * The repository contains the materials (source code and data) for the work proposed in the paper "Keyword Quality in Open Data Portals: A
-Conceptual Framework and Empirical Evaluation".
+Formalization and Empirical Evaluation".
 * This work proposes a conceptualization of keyword quality and evaluates it on Open Data Portals. It provides insights for quality keyword annotations on Open Data Portals. 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International
