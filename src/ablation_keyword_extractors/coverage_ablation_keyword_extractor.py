@@ -34,9 +34,8 @@ EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 EXTRACTORS = ["YAKE", "KeyBERT"]
 
 
-# ---------------------------
 # EXTRACTOR SETUP
-# ---------------------------
+
 yake_extractor = yake.KeywordExtractor(
     lan="en",
     n=2,
@@ -45,9 +44,9 @@ yake_extractor = yake.KeywordExtractor(
 )
 
 
-# ---------------------------
+
 # TEXT NORMALIZATION
-# ---------------------------
+
 def normalize(text):
     return text.lower().strip()
 
@@ -81,9 +80,9 @@ def cleanup():
         torch.cuda.empty_cache()
 
 
-# ---------------------------
+
 # PREPROCESS
-# ---------------------------
+
 def preprocess_data(data, kw_model):
     print("Preprocessing dataset with YAKE + KeyBERT...")
 
@@ -136,9 +135,9 @@ def preprocess_data(data, kw_model):
     return prepared, all_concepts
 
 
-# ---------------------------
+
 # EMBEDDING LOOKUP
-# ---------------------------
+
 def build_embedding_lookup(model, texts):
     unique_texts = list(set(texts))
 
@@ -156,9 +155,9 @@ def build_embedding_lookup(model, texts):
     }
 
 
-# ---------------------------
+
 # COVERAGE EVALUATION
-# ---------------------------
+
 def run_coverage(prepared_data, embedding_lookup, extractor_name):
     print(f"\nRunning coverage evaluation for {extractor_name}")
 
@@ -247,9 +246,9 @@ def run_coverage(prepared_data, embedding_lookup, extractor_name):
     return results
 
 
-# ---------------------------
+
 # MAIN
-# ---------------------------
+
 if __name__ == "__main__":
     start_time = time.time()
 
@@ -278,7 +277,7 @@ if __name__ == "__main__":
 
         all_results[extractor] = results
 
-        # SAFE ATOMIC SAVE
+        # SAFE 
         tmp_output = OUTPUT_FILE + ".tmp"
 
         with open(tmp_output, "w", encoding="utf-8") as f:
