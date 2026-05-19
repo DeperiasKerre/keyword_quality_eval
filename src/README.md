@@ -1,1 +1,1 @@
-Terminology alignment: In the implementation, references to "coverage" denote the semantic completeness metric as defined in the accompanying manuscript.
+Terminology note: In the implementation, references to "coverage" correspond to the semantic completeness metric, i.e., the extent to which assigned keywords semantically cover metadata-derived keywords.
