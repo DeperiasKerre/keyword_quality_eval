@@ -1,1 +1,1 @@
-Implementation note: In the source code, variables, functions, and scripts labeled as "coverage" correspond to the semantic completeness metric described in the manuscript.
+Terminology alignment: In the implementation, references to "coverage" denote the semantic completeness metric as defined in the accompanying manuscript.
