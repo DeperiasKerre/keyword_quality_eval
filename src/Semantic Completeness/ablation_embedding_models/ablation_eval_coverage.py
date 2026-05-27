@@ -26,10 +26,8 @@ MODELS = [
     "sentence-transformers/all-mpnet-base-v2"
 ]
 
-
-# ---------------------------
 # YAKE SETUP
-# ---------------------------
+
 kw_extractor = yake.KeywordExtractor(
     lan="en",
     n=2,
@@ -38,9 +36,8 @@ kw_extractor = yake.KeywordExtractor(
 )
 
 
-# ---------------------------
-# HELPERS
-# ---------------------------
+# HELPERS FUNCTIONS
+
 def normalize(text):
     return text.lower().strip()
 
@@ -63,10 +60,8 @@ def cleanup():
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
 
-
-# ---------------------------
 # PREPROCESS
-# ---------------------------
+
 def preprocess_data(data):
     print("Preprocessing keywords and concept extraction...")
 
@@ -97,10 +92,8 @@ def preprocess_data(data):
 
     return prepared, all_keywords, all_title_concepts, all_description_concepts
 
-
-# ---------------------------
 # EMBEDDING LOOKUP
-# ---------------------------
+
 def build_embedding_lookup(model, texts, label):
     unique_texts = list(set(texts))
 
@@ -119,10 +112,8 @@ def build_embedding_lookup(model, texts, label):
 
     return lookup
 
-
-# ---------------------------
 # COVERAGE EVALUATION
-# ---------------------------
+
 def run_coverage_evaluation(model_name,
                             prepared_data,
                             keyword_lookup,
@@ -210,10 +201,8 @@ def run_coverage_evaluation(model_name,
 
     return results
 
-
-# ---------------------------
 # MAIN
-# ---------------------------
+
 if __name__ == "__main__":
     start_time = time.time()
 
