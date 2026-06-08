@@ -10,7 +10,7 @@ import time
 import gc
 import torch
 from sentence_transformers import SentenceTransformer, util
-import yake
+from keybert import KeyBERT
 
 # input/output
 INPUT_FILE = "dataset_sample_10k.json"
@@ -26,17 +26,13 @@ MODELS = [
     "sentence-transformers/all-mpnet-base-v2"
 ]
 
-# YAKE SETUP
 
-kw_extractor = yake.KeywordExtractor(
-    lan="en",
-    n=2,
-    dedupLim=0.9,
-    top=TOP_K
-)
+# KEYBERT SETUP
+
+kw_extractor = KeyBERT()
 
 
-# HELPERS FUNCTIONS
+# HELPER FUNCTIONS
 
 def normalize(text):
     return text.lower().strip()
@@ -51,8 +47,22 @@ def normalize_keywords(keywords):
 
 
 def extract_keywords(text):
-    kws = kw_extractor.extract_keywords(text)
-    return [normalize(k[0]) for k in kws]
+
+    if not text or not text.strip():
+        return []
+
+    try:
+        kws = kw_extractor.extract_keywords(
+            text,
+            keyphrase_ngram_range=(1, 2),
+            stop_words="english",
+            top_n=TOP_K
+        )
+
+        return [normalize(k[0]) for k in kws]
+
+    except Exception:
+        return []
 
 
 def cleanup():
@@ -87,10 +97,11 @@ def preprocess_data(data):
         all_title_concepts.extend(title_concepts)
         all_description_concepts.extend(description_concepts)
 
-        if i % 500 == 0:
+        if i % 100 == 0:
             print(f"Preprocessed {i}/{len(data)}")
 
     return prepared, all_keywords, all_title_concepts, all_description_concepts
+
 
 # EMBEDDING LOOKUP
 
@@ -111,6 +122,7 @@ def build_embedding_lookup(model, texts, label):
     }
 
     return lookup
+
 
 # COVERAGE EVALUATION
 
@@ -196,10 +208,11 @@ def run_coverage_evaluation(model_name,
             **description_coverage_dict
         })
 
-        if i % 500 == 0:
+        if i % 100 == 0:
             print(f"[{model_name}] Processed {i}/{len(prepared_data)}")
 
     return results
+
 
 # MAIN
 
