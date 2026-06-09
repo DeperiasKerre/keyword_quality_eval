@@ -9,6 +9,6 @@ License](http://creativecommons.org/licenses/by/4.0/).
 
 ### Acknowledgements
 * This work was primarily funded by the Fonds de la Recherche Scientifique – FNRS under Grant No. MIS F.4016.24. Partial mobility support covering
-the initial travel costs to Belgium was provided to Dr. Deperias Kerre by Strathmore University through the Staff Development Programme.
+the initial travel costs to Belgium was provided to the first author by Strathmore University through the Staff Development Programme.
 ### Citation
 * TBD
