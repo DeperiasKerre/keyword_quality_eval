@@ -1,5 +1,5 @@
 ## Semantic Keyword Quality Conceptualization and Evaluation on Open Data Portals
-* The repository contains the materials (source code and data) for the work proposed in the paper "Are the Provided Keywords on Open Data Portals Semantically Complete and Relevant? An Exploratory Study".
+* The repository contains the materials (source code and data) for the work proposed in the paper *"Are the Provided Keywords on Open Data Portals Semantically Complete and Relevant? An Exploratory Study".*
 * This work proposes an operationalization of semantic keyword quality (SKQ) and analyzes it on open data portals. It provides insights for quality keyword annotations on open data portals. 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International
