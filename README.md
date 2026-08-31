@@ -11,4 +11,4 @@ License](http://creativecommons.org/licenses/by/4.0/).
 * This work was primarily funded by the Fonds de la Recherche Scientifique – FNRS under Grant No. MIS F.4016.24. Partial mobility support covering
 the initial travel costs to Belgium was provided to the first author by Strathmore University through the Staff Development Programme.
 ### Citation
-* TBD
+* Kerre, D., & Debruyne, C. (2026). Are the Provided Keywords on Open Data Portals Semantically Complete and Relevant? An Exploratory Study. In 3rd NeXt-generation Data Governance workshop (NXDG 2026), co-located with the 22nd SEMANTiCS conference, 15 September 2026, Ghent, Belgium.
